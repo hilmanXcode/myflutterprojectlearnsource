@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "391897676608",
+    "firebase_url": "https://belajar-kotlin-aa6f3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "belajar-kotlin-aa6f3",
+    "storage_bucket": "belajar-kotlin-aa6f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391897676608:android:c1bc6247d7187f5eed98a5",
+        "android_client_info": {
+          "package_name": "com.hilmanxcode.belajarfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE5CpbGMDgxgBBQdFS5y0eJEnDS_NBqjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391897676608:android:80dd2fe6d9691902ed98a5",
+        "android_client_info": {
+          "package_name": "com.hilmanxcode.belajarfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE5CpbGMDgxgBBQdFS5y0eJEnDS_NBqjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391897676608:android:d65642386e907095ed98a5",
+        "android_client_info": {
+          "package_name": "com.hilmanxcode.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE5CpbGMDgxgBBQdFS5y0eJEnDS_NBqjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
